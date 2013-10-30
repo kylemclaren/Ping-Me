@@ -1,5 +1,7 @@
 # Ping Me
 
+Important!: This project is a work in progress and not ready for production.
+
 Ping Me allows sytem administrators to monitor the connectivity of their networks' wifi routers. Businesses can use it to monitor connectivity of critical routers.
 
 Ping Me will ping the router remotely at specified time intervals and if a ping is unsuccessful,and SMS will be sent to your team notifying them of the downtime.
